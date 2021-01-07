@@ -12,7 +12,7 @@
 2. Implementing vanilla LSTM sequence-to-sequence model： Nattapat
 3. Implementing models with transformers: Nattapat, Siyu
 4. Evaluation: Nattapat, Siyu
-5. Making video, PPT and final report: Nattapat, Siyu
+5. Making video, PPT, and final report: Nattapat, Siyu
 
 
 **Text Summarization from basic to advanced approaches**
