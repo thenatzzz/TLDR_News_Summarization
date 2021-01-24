@@ -1,10 +1,10 @@
-**Final Project: Text Summarization from basic to advanced approaches**
+**Final Project: TL;DR Text Summarization from basic to advanced approaches**
 
 **Group name**: Oasis
 
-**Group members**: Siyu Wu (301395909) ; Nattapat Juthaprachakul (301350117)
+**Group members**: Siyu Wu, Nattapat Juthaprachakul 
 
-**Email**: swa246@sfu.ca ; njuthapr@sfu.ca
+**Email**: swa246@sfu.ca, njuthapr@sfu.ca
 
 **Assignments of works**:
 
