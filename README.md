@@ -31,7 +31,7 @@ https://vault.sfu.ca/index.php/s/3CbZSqq0abUshGv
 
 **Requirements:**
 
-1. Tensorflow 2.0, Keras (LSTM model)
+1. TensorFlow 2.0, Keras (LSTM model)
 2. Huggingface Transformers API (Transformer models)
 3. Pytorch (Finetuned Transformer model)
 4. Python ML Libraries eg. Pandas, Numpy
