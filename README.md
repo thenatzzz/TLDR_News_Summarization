@@ -9,7 +9,7 @@
 **Assignments of works**:
 
 1. Processing dataset ： Nattapat
-2. Implementing vanilla LSTM sequence-to-sequence model： Nattapat
+2. Implementing vanilla sequence-to-sequence LSTM model： Nattapat
 3. Implementing models with transformers: Nattapat, Siyu
 4. Evaluation: Nattapat, Siyu
 5. Making video, PPT, and final report: Nattapat, Siyu
