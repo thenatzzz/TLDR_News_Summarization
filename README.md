@@ -20,7 +20,7 @@
 - The goal of this project is to implement different Text summarization techniques on the same dataset and compare them based on the same evaluation metrics such as ROUGE.
 
 - The program is written in Python.
-- This project is implemented in Google Colab using CPU, GPU, and TPU.
+- This project is implemented in Google Colab with CPU, GPU, and TPU.
 - Data preprocessing is implemented in process_data.py file and the results are saved into pickle.
 - Predicted summaries and evaluation results are saved into CSV files for each model.
 
